@@ -27,7 +27,7 @@ VALUES (
     1,
     "2021-07-20 10:26:00.000",
     "Media Slicing with ffmpeg",
-    "Try the following command format: \n ffmpeg -i INPUT -ss START -t END -c copy OUTPUT \n where INPUT/OUTPUT are filenames and START/END are seconds (with decimals) or a proper timestamp"
+    "Try the following command format: \n\t ffmpeg -i INPUT -ss START -t END -c copy OUTPUT \n where INPUT/OUTPUT are filenames and START/END are seconds (with decimals) or a proper timestamp"
   );
 INSERT INTO `tags`
 VALUES (null, "ffmpeg");

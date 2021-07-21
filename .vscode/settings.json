@@ -6,5 +6,7 @@
 			"name": "daily-journal",
 			"database": "./dailyjournal.db"
 		}
-	]
+	],
+	"editor.wrappingIndent": "same",
+	"editor.wordWrap": "bounded"
 }
